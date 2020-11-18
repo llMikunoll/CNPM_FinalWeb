@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/Controller/GetForm.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>97</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/src/java/Controller/GetForm.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/src/java/REMOVE/LogoutServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/src/java/REMOVE/LoginServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/web/Trangchu.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/src/java/Controller/Controller.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/web/Form_DatPhong.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/web/DatPhong.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/web/Login.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/FinalProject/src/java/DAO/AccountDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
